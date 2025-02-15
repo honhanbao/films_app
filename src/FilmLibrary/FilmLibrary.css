@@ -20,12 +20,6 @@
   /* border: 1px solid red; */
 }
 
-.FilmLibrary .film-list > .section {
-  width: 33.333333%;
-  margin: 0 auto; /* Centers the element horizontally */
-  /* left: 0; */
-}
-
 .FilmLibrary .film-list > .section-title {
   width: 33.333333%;
   margin: 0 auto; /* Centers the element horizontally */
@@ -107,7 +101,7 @@
 .films{
   display: inline-flex;
   margin: 1% 2%; /* Centers the element horizontally */
-  width: 15%;
+  width: 20%;
   border: 1px solid red;
 }
 

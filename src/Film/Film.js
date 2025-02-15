@@ -14,6 +14,7 @@ function Film(props){
 
   return(
     <div>
+        {/* <div className="Film"> */}
         <div className="FilmRow">
         <img src={props.src} alt="{film title} film poster" />
         <div className="film-summary">
